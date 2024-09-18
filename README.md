@@ -1,4 +1,4 @@
-	**THỰC HÀNH LAB01**
+# THỰC HÀNH LAB01
 
 **Nội dung thực hành:**
 
