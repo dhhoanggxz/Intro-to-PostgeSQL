@@ -1,4 +1,6 @@
 # THỰC HÀNH PostgreSQL
+![image](https://github.com/user-attachments/assets/a2f25660-ec1c-4832-9e4a-5c09aacf5c2a)
+
 
 **Nội dung:**
 
