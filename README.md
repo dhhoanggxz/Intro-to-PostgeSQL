@@ -1,6 +1,6 @@
-# THỰC HÀNH LAB01
+# THỰC HÀNH PostgreSQL
 
-**Nội dung thực hành:**
+**Nội dung:**
 
 - Cài đặt PostgreSQL  
 - Tạo, xóa DATABASE  
